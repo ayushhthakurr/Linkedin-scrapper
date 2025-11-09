@@ -79,10 +79,3 @@ npm run server
 
 For more detailed troubleshooting, see [SETUP.md](SETUP.md)
 
-## Security Warning
-
-⚠️ **Never share your `.env` file or commit it to version control.**
-⚠️ **Using automated scraping may violate LinkedIn's Terms of Service. Use at your own risk.**
-
-## License
-This project is licensed under the MIT License.
